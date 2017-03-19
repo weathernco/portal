@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /thredds
+Disallow: /manager
+Disallow: /host-manager
